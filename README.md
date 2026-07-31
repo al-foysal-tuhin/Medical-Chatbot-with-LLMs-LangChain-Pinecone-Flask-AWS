@@ -7,7 +7,7 @@
 Clone the repository
 
 ```bash
-git clone: https://github.com/al-foysal-tuhin/Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
+https://github.com/al-foysal-tuhin/Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
 ```
 
 
